@@ -1,1 +1,1 @@
-# AI-thoughtss
+# AI-thoughts
